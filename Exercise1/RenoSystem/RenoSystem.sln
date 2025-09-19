@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenoSystem", "RenoSystem\RenoSystem.csproj", "{4FD01264-B2D3-4918-8B4D-568D2CC4DE84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingEx1", "..\UnitTestingEx1\UnitTestingEx1\UnitTestingEx1.csproj", "{BC41D7CF-C49F-C3A5-F3DE-099F717DB256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FD01264-B2D3-4918-8B4D-568D2CC4DE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD01264-B2D3-4918-8B4D-568D2CC4DE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD01264-B2D3-4918-8B4D-568D2CC4DE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD01264-B2D3-4918-8B4D-568D2CC4DE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC41D7CF-C49F-C3A5-F3DE-099F717DB256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC41D7CF-C49F-C3A5-F3DE-099F717DB256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC41D7CF-C49F-C3A5-F3DE-099F717DB256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC41D7CF-C49F-C3A5-F3DE-099F717DB256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {761605A4-BEE3-4702-B846-9C8485F1F41C}
+	EndGlobalSection
+EndGlobal
